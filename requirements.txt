@@ -1,3 +1,6 @@
 numpy
 matplotlib
 graphviz
+torch
+torchvision
+torchaudio
